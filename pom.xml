@@ -22,7 +22,7 @@
         <mybatis.spring.version>1.2.5</mybatis.spring.version>
         <fastjson.version>1.2.5</fastjson.version>
         <pagehelper.version>4.1.6</pagehelper.version>
-        <dubbo.version>2.6.4</dubbo.version>
+        <dubbo.version>2.6.9</dubbo.version>
         <druid.version>1.1.9</druid.version>
         <mysql.version>6.0.5</mysql.version>
         <httpcomponents.httpclient.version>4.5.3</httpcomponents.httpclient.version>
